@@ -1,0 +1,41 @@
+profileDesc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id t laborum.
+experiences:
+  -
+    company: Fofuuu
+    role: Product Owner
+    period: Mar 2020 - present
+    desc: Lorem ipsum dolor sit amet
+  -
+    company: The SubCute
+    role: Co-founder & Product Designer
+    period: Feb 2017 - present
+    desc: |+
+        - Branding
+        - Product development
+        - Product designer
+        - Business strategist
+  -
+    company: Itaú Cinemas
+    role: Auxiliar Administrativo
+    period: 2014 - Jan 2017
+    desc: Lorem ipsum dolor sit amet
+education:
+  -
+    institution: Gama Academy
+    course: UI/UX Design
+    period: 2020
+  -
+    institution: Belas Artes de São Paulo
+    course: Design de Produto
+    period: 2014 - 2018
+skills:
+  - name: skill1
+    level: 1
+  - name: skill2
+    level: 2
+  - name: skill3
+    level: 3
+  - name: skill4
+    level: 3
+  - name: skill5
+    level: 3

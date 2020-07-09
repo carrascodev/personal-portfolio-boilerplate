@@ -1,7 +1,7 @@
 <template>
   <div>
-    <footer style="align-content: center">
-        <p>Olar</p>
+    <footer class="text-center text-black-50">
+        Copyright© 2020
     </footer>
   </div>
 </template>
@@ -17,5 +17,7 @@
 </script>
 
 <style scoped>
-
+footer {
+  margin-top: 50px;
+}
 </style>

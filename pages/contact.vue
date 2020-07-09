@@ -1,5 +1,7 @@
 <template>
-<p>Contact page</p>
+<div id="contact">
+  <Banner title="Contact"/>
+</div>
 </template>
 
 <script lang="ts">
